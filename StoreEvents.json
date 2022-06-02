@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "wandererjoins",
-		"price": 50,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +372,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
