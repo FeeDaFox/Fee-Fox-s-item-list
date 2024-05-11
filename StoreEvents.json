@@ -91,11 +91,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 2500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -143,11 +138,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -281,6 +271,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "item",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -363,6 +358,11 @@
 	{
 		"abr": "removepassion",
 		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
