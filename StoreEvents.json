@@ -81,11 +81,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
@@ -146,11 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdmigration",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "farmanimals",
 		"price": 400,
 		"karmatype": "Good"
@@ -204,11 +194,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -431,5 +416,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 83
 }
