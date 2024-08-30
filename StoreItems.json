@@ -514,13 +514,13 @@
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": -10
+      "price": 2225
     },
     {
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 1992
     },
     {
       "abr": "infinitechemreactor",
@@ -1516,7 +1516,7 @@
       "abr": "grizzlybear",
       "category": "Animals",
       "defname": "Bear_Grizzly",
-      "price": -10
+      "price": 1175
     },
     {
       "abr": "polarbear",
@@ -1594,7 +1594,7 @@
       "abr": "monkey",
       "category": "Animals",
       "defname": "Monkey",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "chicken",
@@ -1630,7 +1630,7 @@
       "abr": "boomalope",
       "category": "Animals",
       "defname": "Boomalope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "muffalo",
@@ -1648,7 +1648,7 @@
       "abr": "dromedary",
       "category": "Animals",
       "defname": "Dromedary",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "goat",
@@ -1666,31 +1666,31 @@
       "abr": "yak",
       "category": "Animals",
       "defname": "Yak",
-      "price": -10
+      "price": 542
     },
     {
       "abr": "caribou",
       "category": "Animals",
       "defname": "Caribou",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "horse",
       "category": "Animals",
       "defname": "Horse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "donkey",
       "category": "Animals",
       "defname": "Donkey",
-      "price": -10
+      "price": 558
     },
     {
       "abr": "elephant",
       "category": "Animals",
       "defname": "Elephant",
-      "price": -10
+      "price": 992
     },
     {
       "abr": "rhinoceros",
@@ -1702,7 +1702,7 @@
       "abr": "hare",
       "category": "Animals",
       "defname": "Hare",
-      "price": -10
+      "price": 87
     },
     {
       "abr": "snowhare",
@@ -1744,7 +1744,7 @@
       "abr": "tortoise",
       "category": "Animals",
       "defname": "Tortoise",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "alphabeaver",
@@ -1756,13 +1756,13 @@
       "abr": "pig",
       "category": "Animals",
       "defname": "Pig",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "wildboar",
       "category": "Animals",
       "defname": "WildBoar",
-      "price": -10
+      "price": 332
     },
     {
       "abr": "ibex",
@@ -1774,13 +1774,13 @@
       "abr": "deer",
       "category": "Animals",
       "defname": "Deer",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "gazelle",
       "category": "Animals",
       "defname": "Gazelle",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "chinchilla",
@@ -1798,7 +1798,7 @@
       "abr": "alpaca",
       "category": "Animals",
       "defname": "Alpaca",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "megasloth",
@@ -1810,7 +1810,7 @@
       "abr": "capybara",
       "category": "Animals",
       "defname": "Capybara",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "squirrel",
@@ -1870,7 +1870,7 @@
       "abr": "redfox",
       "category": "Animals",
       "defname": "Fox_Red",
-      "price": -10
+      "price": 330
     },
     {
       "abr": "arcticfox",
@@ -1918,13 +1918,13 @@
       "abr": "effigy",
       "category": "Misc",
       "defname": "Effigy",
-      "price": -10
+      "price": 176
     },
     {
       "abr": "sacrificialflag",
       "category": "Misc",
       "defname": "SacrificialFlag",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "pyre",
@@ -2270,7 +2270,7 @@
     },
     {
       "abr": "immunoenhancer",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "Immunoenhancer",
       "price": 1717
     },
@@ -2324,19 +2324,19 @@
     },
     {
       "abr": "detoxifierstomach",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "DetoxifierStomach",
       "price": 1717
     },
     {
       "abr": "reprocessorstomach",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "ReprocessorStomach",
       "price": 1717
     },
     {
       "abr": "nuclearstomach",
-      "category": "Ultratech",
+      "category": "Bionic",
       "defname": "NuclearStomach",
       "price": 1717
     },
@@ -2404,7 +2404,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4308
     },
     {
       "abr": "drape",
@@ -3424,7 +3424,7 @@
       "abr": "adrenalheart",
       "category": "Ghoul",
       "defname": "AdrenalHeart",
-      "price": -10
+      "price": 156
     },
     {
       "abr": "bioferrite",
@@ -4102,7 +4102,7 @@
       "abr": "voidsculpture",
       "category": "Art",
       "defname": "VoidSculpture",
-      "price": -10
+      "price": 206
     },
     {
       "abr": "voidsightserum",
@@ -4495,22 +4495,10 @@
       "price": 1900
     },
     {
-      "abr": "ammocrate",
-      "category": "Furniture",
-      "defname": "VFES_AmmoCrate",
-      "price": 533
-    },
-    {
       "abr": "amulet",
       "category": "Inert relics",
       "defname": "VIE_RelicInertAmulet",
       "price": -10
-    },
-    {
-      "abr": "anchovy",
-      "category": "Raw fish",
-      "defname": "VCEF_RawAnchovy",
-      "price": 1
     },
     {
       "abr": "ancientairconditioner",
@@ -4849,18 +4837,6 @@
       "price": -10
     },
     {
-      "abr": "angelfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawAngelfish",
-      "price": 2
-    },
-    {
-      "abr": "anglerfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawAnglerfish",
-      "price": 2
-    },
-    {
       "abr": "animacolossus",
       "category": "Animals",
       "defname": "AA_AnimaColossus",
@@ -4877,12 +4853,6 @@
       "category": "Misc",
       "defname": "BS_Shrink_Serum",
       "price": -10
-    },
-    {
-      "abr": "animalprostheticstable",
-      "category": "Production",
-      "defname": "TableAnimalProsthetics",
-      "price": 367
     },
     {
       "abr": "animaltrap",
@@ -4906,7 +4876,7 @@
       "abr": "animusvox",
       "category": "Animals",
       "defname": "AA_AnimusVox",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "antibiotics",
@@ -4943,12 +4913,6 @@
       "category": "Apparel",
       "defname": "VAE_Apparel_Apron",
       "price": 204
-    },
-    {
-      "abr": "arapaima(adeptcatch)",
-      "category": "Raw fish",
-      "defname": "VCEF_ArapaimaItem",
-      "price": 7
     },
     {
       "abr": "arcademachine",
@@ -4996,25 +4960,25 @@
       "abr": "archotechear",
       "category": "Archotech",
       "defname": "FSFArchotechEar",
-      "price": 4300
+      "price": 4317
     },
     {
       "abr": "archotechear",
       "category": "Archotech",
       "defname": "ArchotechEar",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechheart",
       "category": "Archotech",
       "defname": "FSFArchotechHeart",
-      "price": 4450
+      "price": 4367
     },
     {
       "abr": "archotechheart",
       "category": "Archotech",
       "defname": "ArchotechHeart",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechjaw",
@@ -5026,7 +4990,7 @@
       "abr": "archotechkidney",
       "category": "Archotech",
       "defname": "FSFArchotechKidney",
-      "price": 4300
+      "price": -10
     },
     {
       "abr": "archotechkidney",
@@ -5044,19 +5008,19 @@
       "abr": "archotechliver",
       "category": "Archotech",
       "defname": "ArchotechLiver",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechlung",
       "category": "Archotech",
       "defname": "FSFArchotechLung",
-      "price": 4450
+      "price": 4475
     },
     {
       "abr": "archotechlung",
       "category": "Archotech",
       "defname": "ArchotechLung",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechmedicarm",
@@ -5107,12 +5071,6 @@
       "price": 5000
     },
     {
-      "abr": "archotechshieldgenerator",
-      "category": "Special",
-      "defname": "VFES_ShieldGenerator_Archotech",
-      "price": -10
-    },
-    {
       "abr": "archotechspine",
       "category": "Archotech",
       "defname": "FSFArchotechSpine",
@@ -5122,7 +5080,7 @@
       "abr": "archotechspine",
       "category": "Archotech",
       "defname": "ArchotechSpine",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechstomach",
@@ -5299,12 +5257,6 @@
       "price": 186
     },
     {
-      "abr": "artillery",
-      "category": "Security",
-      "defname": "VFES_Turret_Artillery",
-      "price": 1408
-    },
-    {
       "abr": "asphaltbucket",
       "category": "Raw resources",
       "defname": "AB_AsphaltBucket",
@@ -5413,18 +5365,6 @@
       "price": 77
     },
     {
-      "abr": "bass",
-      "category": "Raw fish",
-      "defname": "VCEF_RawBass",
-      "price": 2
-    },
-    {
-      "abr": "beartrap",
-      "category": "Security",
-      "defname": "VFES_BearTrap",
-      "price": 236
-    },
-    {
       "abr": "bedbug",
       "category": "Animals",
       "defname": "AA_BedBug",
@@ -5483,78 +5423,6 @@
       "category": "Misc",
       "defname": "VFED_Biodecoder",
       "price": 833
-    },
-    {
-      "abr": "bionicanimalarm",
-      "category": "Animal Body Part",
-      "defname": "BionicArmAnimal",
-      "price": 892
-    },
-    {
-      "abr": "bionicanimalbrainstimulator",
-      "category": "Animal Body Part",
-      "defname": "AnimalBrainStimulator",
-      "price": 1508
-    },
-    {
-      "abr": "bionicanimalearimplant",
-      "category": "Animal Body Part",
-      "defname": "EarAnimalBionic",
-      "price": 867
-    },
-    {
-      "abr": "bionicanimaleye",
-      "category": "Animal Body Part",
-      "defname": "BionicEyeAnimal",
-      "price": 867
-    },
-    {
-      "abr": "bionicanimalheart",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalHeart",
-      "price": 667
-    },
-    {
-      "abr": "bionicanimaljaw",
-      "category": "Animal Body Part",
-      "defname": "JawAnimalBionic",
-      "price": 867
-    },
-    {
-      "abr": "bionicanimalkidney",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalKidney",
-      "price": 483
-    },
-    {
-      "abr": "bionicanimalleg",
-      "category": "Animal Body Part",
-      "defname": "BionicLegAnimal",
-      "price": 892
-    },
-    {
-      "abr": "bionicanimalliver",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalLiver",
-      "price": 483
-    },
-    {
-      "abr": "bionicanimallung",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalLung",
-      "price": 483
-    },
-    {
-      "abr": "bionicanimalspine",
-      "category": "Animal Body Part",
-      "defname": "SpineAnimalBionic",
-      "price": 1050
-    },
-    {
-      "abr": "bionicanimalstomach",
-      "category": "Animal Body Part",
-      "defname": "BionicAnimalStomach",
-      "price": 492
     },
     {
       "abr": "bionicbreachingarm",
@@ -5902,19 +5770,13 @@
       "abr": "bumbledronequeen",
       "category": "Animals",
       "defname": "AA_BumbledroneQueen",
-      "price": -10
+      "price": 725
     },
     {
       "abr": "burnoutintelscraper",
       "category": "Misc",
       "defname": "VFED_BurnoutIntelScraper",
       "price": 1133
-    },
-    {
-      "abr": "butterfish(adeptcatch)",
-      "category": "Raw fish",
-      "defname": "VCEF_ButterFishItem",
-      "price": 1
     },
     {
       "abr": "bxcommandodroid",
@@ -6043,12 +5905,6 @@
       "price": 143
     },
     {
-      "abr": "catfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawCatfish",
-      "price": 4
-    },
-    {
       "abr": "ceremonialmask",
       "category": "Inert relics",
       "defname": "VIE_RelicInertCeremonialMask",
@@ -6070,7 +5926,7 @@
       "abr": "chameleonyak",
       "category": "Animals",
       "defname": "AA_ChameleonYak",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "chameleonyakwool,desert",
@@ -6107,12 +5963,6 @@
       "category": "Ranged weapons",
       "defname": "VFEE_Gun_ChargeThumper",
       "price": 1667
-    },
-    {
-      "abr": "chargeturret",
-      "category": "Security",
-      "defname": "VFES_Turret_ChargeTurret",
-      "price": 1358
     },
     {
       "abr": "chargedblizzariskegg(fert.)",
@@ -6595,22 +6445,10 @@
       "price": 198
     },
     {
-      "abr": "clownfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawClownfish",
-      "price": 1
-    },
-    {
       "abr": "clustershell",
       "category": "Mortar shells",
       "defname": "VFED_Shell_Cluster",
       "price": 283
-    },
-    {
-      "abr": "cod",
-      "category": "Raw fish",
-      "defname": "VCEF_RawCod",
-      "price": 3
     },
     {
       "abr": "colossalaerofleet",
@@ -6677,12 +6515,6 @@
       "category": "Stone blocks",
       "defname": "AB_BlocksCragstone",
       "price": 2
-    },
-    {
-      "abr": "crayfish(adeptcatch)",
-      "category": "Raw fish",
-      "defname": "VCEF_CrayfishItem",
-      "price": 1
     },
     {
       "abr": "crepuscularbeetle",
@@ -6895,12 +6727,6 @@
       "price": 143
     },
     {
-      "abr": "decoy",
-      "category": "Security",
-      "defname": "VFES_Turret_Decoy",
-      "price": 140
-    },
-    {
       "abr": "deepchem",
       "category": "Manufactured",
       "defname": "VCHE_Deepchem",
@@ -6923,12 +6749,6 @@
       "category": "Furniture",
       "defname": "VCHE_DeepchemTap",
       "price": 194
-    },
-    {
-      "abr": "deployableturret",
-      "category": "Security",
-      "defname": "VFES_Turret_FloorTurret",
-      "price": 983
     },
     {
       "abr": "desertave",
@@ -6988,7 +6808,7 @@
       "abr": "devilsheep",
       "category": "Animals",
       "defname": "AA_DevilSheep",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "devilsheepmeat",
@@ -7489,12 +7309,6 @@
       "price": 1442
     },
     {
-      "abr": "eel",
-      "category": "Raw fish",
-      "defname": "VCEF_RawEel",
-      "price": 2
-    },
-    {
       "abr": "elderbrain",
       "category": "Manufactured",
       "defname": "Forgotten_ElderBrain",
@@ -7768,7 +7582,7 @@
       "abr": "fissionmouse",
       "category": "Animals",
       "defname": "AA_FissionMouse",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "fissionmouse,secondgeneration",
@@ -7781,12 +7595,6 @@
       "category": "Animals",
       "defname": "AA_FissionMouseThird",
       "price": -10
-    },
-    {
-      "abr": "flameturret",
-      "category": "Security",
-      "defname": "VFES_Turret_Flame",
-      "price": 958
     },
     {
       "abr": "flamingophoenix",
@@ -7987,12 +7795,6 @@
       "price": 33
     },
     {
-      "abr": "flyingfish(adeptcatch)",
-      "category": "Raw fish",
-      "defname": "VCEF_FlyingFishItem",
-      "price": 4
-    },
-    {
       "abr": "food",
       "category": "Dungeon Loot",
       "defname": "DungeonLoot_Food",
@@ -8033,12 +7835,6 @@
       "category": "Utility",
       "defname": "OuterRim_FragGrenadeBelt",
       "price": 375
-    },
-    {
-      "abr": "freshwaterstingray(adeptcatch)",
-      "category": "Raw fish",
-      "defname": "VCEF_FreshwaterStingrayItem",
-      "price": 4
     },
     {
       "abr": "frigidswimmer",
@@ -8110,7 +7906,7 @@
       "abr": "fusionreactor(portable)",
       "category": "Special",
       "defname": "OuterRim_FusionReactorPortable",
-      "price": -10
+      "price": 16708
     },
     {
       "abr": "fx-7medicaldroid",
@@ -8140,7 +7936,7 @@
       "abr": "gallatross",
       "category": "Animals",
       "defname": "AA_Gallatross",
-      "price": -10
+      "price": 6542
     },
     {
       "abr": "gallatrosshorn",
@@ -8326,7 +8122,7 @@
       "abr": "gigantelope",
       "category": "Animals",
       "defname": "AA_Gigantelope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "gigantelopemeat",
@@ -8356,12 +8152,6 @@
       "abr": "gnkpowerdroidmeat",
       "category": "Meat",
       "defname": "Meat_OuterRim_GNKDroid",
-      "price": 3
-    },
-    {
-      "abr": "goldfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawGoldfish",
       "price": 3
     },
     {
@@ -8728,7 +8518,7 @@
       "abr": "groundrunner",
       "category": "Animals",
       "defname": "AA_Groundrunner",
-      "price": -10
+      "price": 400
     },
     {
       "abr": "groundrunnermeat",
@@ -8755,12 +8545,6 @@
       "price": 992
     },
     {
-      "abr": "guppy",
-      "category": "Raw fish",
-      "defname": "VCEF_RawGuppy",
-      "price": 1
-    },
-    {
       "abr": "habdaklongfin",
       "category": "Alien raw fish",
       "defname": "VCEF_HabdakLongfin",
@@ -8771,18 +8555,6 @@
       "category": "Bionic",
       "defname": "HackingPortImplant",
       "price": 1717
-    },
-    {
-      "abr": "haddock",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHaddock",
-      "price": 2
-    },
-    {
-      "abr": "halibut",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHalibut",
-      "price": 3
     },
     {
       "abr": "hardenedchitin",
@@ -8915,12 +8687,6 @@
       "category": "Apparel",
       "defname": "OuterRim_HermitTunic",
       "price": 248
-    },
-    {
-      "abr": "herring",
-      "category": "Raw fish",
-      "defname": "VCEF_RawHerring",
-      "price": 1
     },
     {
       "abr": "hexagel",
@@ -9190,7 +8956,7 @@
       "abr": "intel",
       "category": "Misc",
       "defname": "VFED_Intel",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "internalclimatecontrol",
@@ -9250,7 +9016,7 @@
       "abr": "ironhuskbeetle",
       "category": "Animals",
       "defname": "AA_IronhuskBeetle",
-      "price": -10
+      "price": 1275
     },
     {
       "abr": "ironhuskbeetleegg(fert.)",
@@ -9329,12 +9095,6 @@
       "category": "Misc",
       "defname": "VFE_KitchenSinkCabinet",
       "price": 327
-    },
-    {
-      "abr": "koi",
-      "category": "Raw fish",
-      "defname": "VCEF_RawKoi",
-      "price": 4
     },
     {
       "abr": "koltogelpack",
@@ -9533,12 +9293,6 @@
       "category": "Art",
       "defname": "AP_EsotericismFakeSculptureLargeC",
       "price": -10
-    },
-    {
-      "abr": "largefishingtrap",
-      "category": "Production",
-      "defname": "VME_LargeFishingTrap",
-      "price": 281
     },
     {
       "abr": "largehedonismsculpture",
@@ -9742,7 +9496,7 @@
       "abr": "largevanometricpowercell",
       "category": "Special",
       "defname": "VFE_LargeVanometricPowerCell",
-      "price": -10
+      "price": 3983
     },
     {
       "abr": "larvalatispec",
@@ -9787,12 +9541,6 @@
       "price": 3
     },
     {
-      "abr": "lobster",
-      "category": "Raw fish",
-      "defname": "VCEF_RawLobster",
-      "price": 9
-    },
-    {
       "abr": "lockjaw",
       "category": "Animals",
       "defname": "AA_Lockjaw",
@@ -9808,19 +9556,13 @@
       "abr": "luciferbug",
       "category": "Animals",
       "defname": "AA_LuciferBug",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "machiningcabinet",
       "category": "Misc",
       "defname": "VFE_MachiningCabinet",
       "price": 483
-    },
-    {
-      "abr": "mackerel",
-      "category": "Raw fish",
-      "defname": "VCEF_RawMackerel",
-      "price": 2
     },
     {
       "abr": "magnaguarddroid",
@@ -10153,12 +9895,6 @@
       "price": 72
     },
     {
-      "abr": "mediumfishingtrap",
-      "category": "Production",
-      "defname": "VME_MediumFishingTrap",
-      "price": 206
-    },
-    {
       "abr": "megalouse",
       "category": "Animals",
       "defname": "AA_MegaLouse",
@@ -10219,12 +9955,6 @@
       "price": 375
     },
     {
-      "abr": "militaryturret",
-      "category": "Security",
-      "defname": "VFES_Turret_MilitaryTurret",
-      "price": 675
-    },
-    {
       "abr": "militaryuniform",
       "category": "Apparel",
       "defname": "VAE_Apparel_MilitaryUniform",
@@ -10235,12 +9965,6 @@
       "category": "Animals",
       "defname": "AA_Mime",
       "price": -10
-    },
-    {
-      "abr": "minnow",
-      "category": "Raw fish",
-      "defname": "VCEF_RawMinnow",
-      "price": 1
     },
     {
       "abr": "moderncomputer",
@@ -10264,7 +9988,7 @@
       "abr": "moribundgallatross",
       "category": "Animals",
       "defname": "AA_GallatrossMoribund",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "mothsilk",
@@ -10729,12 +10453,6 @@
       "price": 327
     },
     {
-      "abr": "perch",
-      "category": "Raw fish",
-      "defname": "VCEF_RawPerch",
-      "price": 2
-    },
-    {
       "abr": "permacrete",
       "category": "Stone blocks",
       "defname": "OuterRim_Permacrete",
@@ -10774,7 +10492,7 @@
       "abr": "phoenixowlcat",
       "category": "Animals",
       "defname": "AA_PhoenixOwlcat",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "pillar",
@@ -10792,12 +10510,6 @@
       "abr": "pinkfungus",
       "category": "Vegetarian",
       "defname": "AB_PinkRawFungus",
-      "price": 2
-    },
-    {
-      "abr": "piranha",
-      "category": "Raw fish",
-      "defname": "VCEF_RawPiranha",
       "price": 2
     },
     {
@@ -11122,12 +10834,6 @@
       "abr": "psychicnullifier",
       "category": "Archotech",
       "defname": "PsychicNullifier",
-      "price": 1667
-    },
-    {
-      "abr": "psychicshield",
-      "category": "Archotech",
-      "defname": "PsychokeneticShield",
       "price": 1667
     },
     {
@@ -12289,12 +11995,6 @@
       "price": 1333
     },
     {
-      "abr": "pufferfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawPufferfish",
-      "price": 2
-    },
-    {
       "abr": "punchingbag",
       "category": "Furniture",
       "defname": "Joy_PunchingBag",
@@ -12616,7 +12316,7 @@
       "abr": "rough-platedmonitor",
       "category": "Animals",
       "defname": "AA_RoughPlatedMonitor",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "rough-platedmonitoregg(fert.)",
@@ -12739,12 +12439,6 @@
       "price": 52
     },
     {
-      "abr": "salmon",
-      "category": "Raw fish",
-      "defname": "VCEF_RawSalmon",
-      "price": 9
-    },
-    {
       "abr": "salvageassistdroid",
       "category": "Animals",
       "defname": "OuterRim_SalvageAssistDroid",
@@ -12853,12 +12547,6 @@
       "price": -10
     },
     {
-      "abr": "searchlight",
-      "category": "Security",
-      "defname": "VFES_Turret_Searchlight",
-      "price": 475
-    },
-    {
       "abr": "sense-enhancingmechanites",
       "category": "Mechanite serums",
       "defname": "FSFImplantMechanitesSensory",
@@ -12869,12 +12557,6 @@
       "category": "Leathers",
       "defname": "Leather_Cactus",
       "price": 6
-    },
-    {
-      "abr": "sentrygun",
-      "category": "Security",
-      "defname": "VFES_Turret_SentryGun",
-      "price": 1058
     },
     {
       "abr": "servitormodule",
@@ -12943,12 +12625,6 @@
       "price": 114
     },
     {
-      "abr": "shortfinmakoshark(adeptcatch)",
-      "category": "Raw fish",
-      "defname": "VCEF_ShortfinMakoSharkItem",
-      "price": 7
-    },
-    {
       "abr": "shorts",
       "category": "Apparel",
       "defname": "VAE_Apparel_Shorts",
@@ -13009,30 +12685,6 @@
       "price": -10
     },
     {
-      "abr": "simpleanimalearimplant",
-      "category": "Animal Body Part",
-      "defname": "EarAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "simpleanimaljawimplant",
-      "category": "Animal Body Part",
-      "defname": "JawAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "simpleanimalnose",
-      "category": "Animal Body Part",
-      "defname": "NoseAnimalSimple",
-      "price": 121
-    },
-    {
-      "abr": "simpleanimalspine",
-      "category": "Animal Body Part",
-      "defname": "SpineAnimalSimple",
-      "price": 202
-    },
-    {
       "abr": "simplebed",
       "category": "Furniture",
       "defname": "Bed_Simple",
@@ -13043,24 +12695,6 @@
       "category": "Meals",
       "defname": "BS_MealLargeSimple",
       "price": 75
-    },
-    {
-      "abr": "simpleprostheticanimalarm",
-      "category": "Animal Body Part",
-      "defname": "SimpleProstheticArmAnimal",
-      "price": 218
-    },
-    {
-      "abr": "simpleprostheticanimalleg",
-      "category": "Animal Body Part",
-      "defname": "SimpleProstheticLegAnimal",
-      "price": 218
-    },
-    {
-      "abr": "simpleprostheticanimaltail",
-      "category": "Animal Body Part",
-      "defname": "ProstheticTailAnimal",
-      "price": 112
     },
     {
       "abr": "simpletradegoods",
@@ -13162,7 +12796,7 @@
       "abr": "skiphound",
       "category": "Animals",
       "defname": "AA_Skiphound",
-      "price": -10
+      "price": 1217
     },
     {
       "abr": "skirt",
@@ -13429,12 +13063,6 @@
       "price": -10
     },
     {
-      "abr": "smallfishingtrap",
-      "category": "Production",
-      "defname": "VME_SmallFishingTrap",
-      "price": 131
-    },
-    {
       "abr": "smallhedonismsculpture",
       "category": "Art",
       "defname": "AP_HedonismFakeSculptureSmallA",
@@ -13591,12 +13219,6 @@
       "price": -10
     },
     {
-      "abr": "smallshieldgenerator",
-      "category": "Security",
-      "defname": "VFES_ShieldGenerator_Small",
-      "price": 3983
-    },
-    {
       "abr": "smallshintaoistsculpture",
       "category": "Art",
       "defname": "AP_TaoistFakeSculptureSmallA",
@@ -13685,12 +13307,6 @@
       "category": "Alien raw fish",
       "defname": "VCEF_Spinyfish",
       "price": 2
-    },
-    {
-      "abr": "sprat",
-      "category": "Raw fish",
-      "defname": "VCEF_RawSprat",
-      "price": 1
     },
     {
       "abr": "sprinkler",
@@ -13915,12 +13531,6 @@
       "price": 4167
     },
     {
-      "abr": "swordfish",
-      "category": "Raw fish",
-      "defname": "VCEF_RawSwordfish",
-      "price": 9
-    },
-    {
       "abr": "synapticregulator",
       "category": "Bionic",
       "defname": "FSFImplantBrainConsciousness",
@@ -13949,12 +13559,6 @@
       "category": "Furniture",
       "defname": "Table_1x1c",
       "price": 70
-    },
-    {
-      "abr": "tacklebox",
-      "category": "Utility",
-      "defname": "VME_TackleBox",
-      "price": -10
     },
     {
       "abr": "tailorcabinet",
@@ -14335,22 +13939,10 @@
       "price": 164
     },
     {
-      "abr": "trout",
-      "category": "Raw fish",
-      "defname": "VCEF_RawTrout",
-      "price": 2
-    },
-    {
       "abr": "t-seriestacticaldroid",
       "category": "Animal",
       "defname": "OuterRim_TacticalDroid",
       "price": -10
-    },
-    {
-      "abr": "tuna",
-      "category": "Raw fish",
-      "defname": "VCEF_RawTuna",
-      "price": 4
     },
     {
       "abr": "tunic",
@@ -14425,12 +14017,6 @@
       "price": 3025
     },
     {
-      "abr": "vanometricmechanoidcell",
-      "category": "Items",
-      "defname": "RM_VanometricMechanoidCell",
-      "price": 3333
-    },
-    {
       "abr": "vegetarianlargefinemeal",
       "category": "Meals",
       "defname": "BS_MealLargeFine_Veg",
@@ -14500,145 +14086,145 @@
       "abr": "warcasketautorifle",
       "category": "Misc",
       "defname": "VFEP_Box_Autorifle",
-      "price": -10
+      "price": 2083
     },
     {
       "abr": "warcasketautorifle",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Autorifle",
-      "price": 2083
+      "price": -10
     },
     {
       "abr": "warcasketbroadsword",
       "category": "Misc",
       "defname": "VFEP_Box_Broadsword",
-      "price": -10
+      "price": 2475
     },
     {
       "abr": "warcasketbroadsword",
       "category": "Melee weapons",
       "defname": "VFEP_WarcasketMeleeWeapon_Broadsword",
-      "price": 2433
+      "price": -10
     },
     {
       "abr": "warcasketchargeblaster",
       "category": "Misc",
       "defname": "VFEP_Box_ChargeBlaster",
-      "price": -10
+      "price": 3650
     },
     {
       "abr": "warcasketchargeblaster",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_ChargeBlaster",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "warcasketchargelance",
       "category": "Misc",
       "defname": "VFEP_Box_ChargeLance",
-      "price": -10
+      "price": 3942
     },
     {
       "abr": "warcasketchargelance",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_ChargeLance",
-      "price": 3750
+      "price": -10
     },
     {
       "abr": "warcasketcombatknife",
       "category": "Misc",
       "defname": "VFEP_Box_CombatKnife",
-      "price": -10
+      "price": 1408
     },
     {
       "abr": "warcasketcombatknife",
       "category": "Melee weapons",
       "defname": "VFEP_WarcasketMeleeWeapon_CombatKnife",
-      "price": 1450
+      "price": -10
     },
     {
       "abr": "warcasketgravityhammer",
       "category": "Misc",
       "defname": "VFEP_Box_GravityHammer",
-      "price": -10
+      "price": 5017
     },
     {
       "abr": "warcasketgravityhammer",
       "category": "Melee weapons",
       "defname": "VFEP_WarcasketMeleeWeapon_GravityHammer",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "warcasketgrenadelauncher",
       "category": "Misc",
       "defname": "VFEP_Box_GrenadeLauncher",
-      "price": -10
+      "price": 3042
     },
     {
       "abr": "warcasketgrenadelauncher",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_GrenadeLauncher",
-      "price": 3150
+      "price": -10
     },
     {
       "abr": "warcaskethandheldcannon",
       "category": "Misc",
       "defname": "VFEP_Box_HandheldCannon",
-      "price": -10
+      "price": 2250
     },
     {
       "abr": "warcaskethandheldcannon",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_HandheldCannon",
-      "price": 2250
+      "price": -10
     },
     {
       "abr": "warcasketheavyflamer",
       "category": "Misc",
       "defname": "VFEP_Box_HeavyFlamer",
-      "price": -10
+      "price": 3992
     },
     {
       "abr": "warcasketheavyflamer",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_HeavyFlamer",
-      "price": 4083
+      "price": -10
     },
     {
       "abr": "warcasketminigun",
       "category": "Misc",
       "defname": "VFEP_Box_Minigun",
-      "price": -10
+      "price": 3733
     },
     {
       "abr": "warcasketminigun",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Minigun",
-      "price": 3733
+      "price": -10
     },
     {
       "abr": "warcasketslugthrower",
       "category": "Misc",
       "defname": "VFEP_Box_Slugthrower",
-      "price": -10
+      "price": 1942
     },
     {
       "abr": "warcasketslugthrower",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_Slugthrower",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "warcasketuraniumslugrifle",
       "category": "Misc",
       "defname": "VFEP_Box_UraniumSlugRifle",
-      "price": -10
+      "price": 2758
     },
     {
       "abr": "warcasketuraniumslugrifle",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_UraniumSlugRifle",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "wardrobe",
@@ -14929,12 +14515,6 @@
       "price": 4267
     },
     {
-      "abr": "prestigesubdermalhelmet",
-      "category": "Bionic",
-      "defname": "LTS_PrestigeSubdermalHelmet",
-      "price": 1667
-    },
-    {
       "abr": "shoulderchargeturret",
       "category": "Bionic",
       "defname": "LTS_ShoulderChargeTurret",
@@ -14989,6 +14569,60 @@
       "price": 1975
     },
     {
+      "abr": "activecamouflage",
+      "category": "Bionic",
+      "defname": "LTS_StealthSystem",
+      "price": 2383
+    },
+    {
+      "abr": "anchovy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnchovy",
+      "price": 0
+    },
+    {
+      "abr": "angelfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAngelfish",
+      "price": 2
+    },
+    {
+      "abr": "anglerfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnglerfish",
+      "price": 2
+    },
+    {
+      "abr": "anomalousshard",
+      "category": "Manufactured",
+      "defname": "BS_DarkSoulshard",
+      "price": 667
+    },
+    {
+      "abr": "arapaima(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_ArapaimaItem",
+      "price": 7
+    },
+    {
+      "abr": "archotechapparel-integrator",
+      "category": "Archotech",
+      "defname": "BS_IndestructibelApparel",
+      "price": 4667
+    },
+    {
+      "abr": "bass",
+      "category": "Raw fish",
+      "defname": "VCEF_RawBass",
+      "price": 2
+    },
+    {
+      "abr": "bionicfaceplate",
+      "category": "Bionic",
+      "defname": "LTS_FaceplateArachnid",
+      "price": 2608
+    },
+    {
       "abr": "braindetonator",
       "category": "Prosthetic",
       "defname": "LTS_BrainDetonator",
@@ -15001,16 +14635,190 @@
       "price": 342
     },
     {
+      "abr": "butterfish(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_ButterFishItem",
+      "price": 1
+    },
+    {
+      "abr": "catfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCatfish",
+      "price": 4
+    },
+    {
+      "abr": "cellularadaptor",
+      "category": "Bionic",
+      "defname": "LTS_CellularAdapter",
+      "price": 1717
+    },
+    {
       "abr": "circuitbreaker",
       "category": "Power",
       "defname": "Building_RTCircuitBreaker",
       "price": 278
     },
     {
+      "abr": "clownfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawClownfish",
+      "price": 1
+    },
+    {
+      "abr": "cod",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCod",
+      "price": 3
+    },
+    {
+      "abr": "crayfish(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_CrayfishItem",
+      "price": 1
+    },
+    {
       "abr": "cryptosleepsuspender",
       "category": "Furniture",
       "defname": "Bed_CryptoBed",
       "price": 733
+    },
+    {
+      "abr": "eel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawEel",
+      "price": 2
+    },
+    {
+      "abr": "ammocrate",
+      "category": "Furniture",
+      "defname": "VFES_AmmoCrate",
+      "price": 533
+    },
+    {
+      "abr": "animalcochlearimplant",
+      "category": "Artificial Animal Body Part",
+      "defname": "CochlearImplantAnimal",
+      "price": 252
+    },
+    {
+      "abr": "archotechshieldgenerator",
+      "category": "Special",
+      "defname": "VFES_ShieldGenerator_Archotech",
+      "price": 4667
+    },
+    {
+      "abr": "artillery",
+      "category": "Security",
+      "defname": "VFES_Turret_Artillery",
+      "price": 1408
+    },
+    {
+      "abr": "beartrap",
+      "category": "Security",
+      "defname": "VFES_BearTrap",
+      "price": 236
+    },
+    {
+      "abr": "bionicanimalarm",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicArmAnimal",
+      "price": 1333
+    },
+    {
+      "abr": "bionicanimalear",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicEarAnimal",
+      "price": 925
+    },
+    {
+      "abr": "bionicanimaleye",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicEyeAnimal",
+      "price": 1308
+    },
+    {
+      "abr": "bionicanimalheart",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicHeartAnimal",
+      "price": 1308
+    },
+    {
+      "abr": "bionicanimaljaw",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicJawAnimal",
+      "price": 1308
+    },
+    {
+      "abr": "bionicanimalleg",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicLegAnimal",
+      "price": 1333
+    },
+    {
+      "abr": "bionicanimalspine",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicSpineAnimal",
+      "price": 1333
+    },
+    {
+      "abr": "bionicanimalstomach",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicStomachAnimal",
+      "price": 1308
+    },
+    {
+      "abr": "bionicanimaltail",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicTailAnimal",
+      "price": 975
+    },
+    {
+      "abr": "bionicanimaltongue",
+      "category": "Artificial Animal Body Part",
+      "defname": "BionicTongueAnimal",
+      "price": 583
+    },
+    {
+      "abr": "chargeturret",
+      "category": "Security",
+      "defname": "VFES_Turret_ChargeTurret",
+      "price": 1358
+    },
+    {
+      "abr": "decoy",
+      "category": "Security",
+      "defname": "VFES_Turret_Decoy",
+      "price": 140
+    },
+    {
+      "abr": "deployableturret",
+      "category": "Security",
+      "defname": "VFES_Turret_FloorTurret",
+      "price": 983
+    },
+    {
+      "abr": "firesuppressionsystem",
+      "category": "Bionic",
+      "defname": "LTS_FireSupressionSystem",
+      "price": 1383
+    },
+    {
+      "abr": "flameturret",
+      "category": "Security",
+      "defname": "VFES_Turret_Flame",
+      "price": 958
+    },
+    {
+      "abr": "flyingfish(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_FlyingFishItem",
+      "price": 4
+    },
+    {
+      "abr": "freshwaterstingray(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_FreshwaterStingrayItem",
+      "price": 4
     },
     {
       "abr": "genearchive",
@@ -15037,10 +14845,64 @@
       "price": 1358
     },
     {
+      "abr": "goldfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGoldfish",
+      "price": 3
+    },
+    {
+      "abr": "guppy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGuppy",
+      "price": 0
+    },
+    {
+      "abr": "haddock",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHaddock",
+      "price": 2
+    },
+    {
+      "abr": "halibut",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHalibut",
+      "price": 3
+    },
+    {
+      "abr": "herring",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHerring",
+      "price": 1
+    },
+    {
       "abr": "intravenousdripstand",
       "category": "Misc",
       "defname": "Facility_IVDrip",
       "price": 296
+    },
+    {
+      "abr": "koi",
+      "category": "Raw fish",
+      "defname": "VCEF_RawKoi",
+      "price": 4
+    },
+    {
+      "abr": "largefishingtrap",
+      "category": "Production",
+      "defname": "VME_LargeFishingTrap",
+      "price": 281
+    },
+    {
+      "abr": "lobster",
+      "category": "Raw fish",
+      "defname": "VCEF_RawLobster",
+      "price": 9
+    },
+    {
+      "abr": "mackerel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMackerel",
+      "price": 2
     },
     {
       "abr": "makeshiftfuse",
@@ -15049,10 +14911,34 @@
       "price": 120
     },
     {
+      "abr": "mediumfishingtrap",
+      "category": "Production",
+      "defname": "VME_MediumFishingTrap",
+      "price": 206
+    },
+    {
+      "abr": "memorydatabank",
+      "category": "Bionic",
+      "defname": "LTS_MemoryDatabank",
+      "price": 1975
+    },
+    {
+      "abr": "militaryturret",
+      "category": "Security",
+      "defname": "VFES_Turret_MilitaryTurret",
+      "price": 675
+    },
+    {
+      "abr": "minnow",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMinnow",
+      "price": 0
+    },
+    {
       "abr": "neuralheatsink",
       "category": "Bionic",
       "defname": "NeuralHeatsink",
-      "price": 2383
+      "price": 3050
     },
     {
       "abr": "operatingtable",
@@ -15061,10 +14947,58 @@
       "price": 508
     },
     {
+      "abr": "perch",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPerch",
+      "price": 2
+    },
+    {
+      "abr": "piranha",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPiranha",
+      "price": 2
+    },
+    {
+      "abr": "prostheticanimalarm",
+      "category": "Artificial Animal Body Part",
+      "defname": "SimpleProstheticArmAnimal",
+      "price": 300
+    },
+    {
+      "abr": "prostheticanimalheart",
+      "category": "Artificial Animal Body Part",
+      "defname": "SimpleProstheticHeartAnimal",
+      "price": 268
+    },
+    {
+      "abr": "prostheticanimalleg",
+      "category": "Artificial Animal Body Part",
+      "defname": "SimpleProstheticLegAnimal",
+      "price": 300
+    },
+    {
+      "abr": "prostheticanimaltail",
+      "category": "Artificial Animal Body Part",
+      "defname": "SimpleProstheticTailAnimal",
+      "price": 124
+    },
+    {
+      "abr": "psychicreaper",
+      "category": "Bionic",
+      "defname": "LTS_PsychicReaper",
+      "price": 875
+    },
+    {
       "abr": "psychicsustainer",
       "category": "Bionic",
       "defname": "PsychicSustainer",
       "price": 858
+    },
+    {
+      "abr": "pufferfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPufferfish",
+      "price": 2
     },
     {
       "abr": "riotarmor",
@@ -15085,16 +15019,112 @@
       "price": 274
     },
     {
+      "abr": "salmon",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSalmon",
+      "price": 9
+    },
+    {
+      "abr": "searchlight",
+      "category": "Security",
+      "defname": "VFES_Turret_Searchlight",
+      "price": 475
+    },
+    {
+      "abr": "sentrygun",
+      "category": "Security",
+      "defname": "VFES_Turret_SentryGun",
+      "price": 1058
+    },
+    {
+      "abr": "serketistslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_SerketistSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "serketistslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_SerketistSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "shortfinmakoshark(adeptcatch)",
+      "category": "Raw fish",
+      "defname": "VCEF_ShortfinMakoSharkItem",
+      "price": 7
+    },
+    {
+      "abr": "shouldermortar",
+      "category": "Bionic",
+      "defname": "LTS_ShoulderMortar",
+      "price": 2275
+    },
+    {
+      "abr": "shoulderrocketpod",
+      "category": "Bionic",
+      "defname": "LTS_ShoulderRocketPod",
+      "price": 2275
+    },
+    {
       "abr": "slayer'scollar",
       "category": "Bionic",
       "defname": "SlayersCollar",
       "price": 875
     },
     {
-      "abr": "subdermalhelmet",
+      "abr": "smallfishingtrap",
+      "category": "Production",
+      "defname": "VME_SmallFishingTrap",
+      "price": 131
+    },
+    {
+      "abr": "smallshieldgenerator",
+      "category": "Security",
+      "defname": "VFES_ShieldGenerator_Small",
+      "price": 3983
+    },
+    {
+      "abr": "sprat",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSprat",
+      "price": 0
+    },
+    {
+      "abr": "swordfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSwordfish",
+      "price": 9
+    },
+    {
+      "abr": "tacklebox",
+      "category": "Utility",
+      "defname": "VME_TackleBox",
+      "price": 18
+    },
+    {
+      "abr": "trout",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTrout",
+      "price": 2
+    },
+    {
+      "abr": "tuna",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTuna",
+      "price": 4
+    },
+    {
+      "abr": "vanguardaccelerator",
       "category": "Bionic",
-      "defname": "LTS_SubdermalHelmet",
-      "price": 1092
+      "defname": "LTS_Vanguard",
+      "price": 2608
+    },
+    {
+      "abr": "vanometricmechanoidcell",
+      "category": "Items",
+      "defname": "RM_VanometricMechanoidCell",
+      "price": 3333
     },
     {
       "abr": "venomtail",
@@ -15107,7 +15137,25 @@
       "category": "Misc",
       "defname": "Facility_VitalsCentre",
       "price": 1125
+    },
+    {
+      "abr": "voicelock",
+      "category": "Prosthetic",
+      "defname": "LTS_Voicelock",
+      "price": 342
+    },
+    {
+      "abr": "voidlink",
+      "category": "Bionic",
+      "defname": "LTS_Voidlink",
+      "price": 875
+    },
+    {
+      "abr": "warcasketplasmasword",
+      "category": "Melee weapons",
+      "defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword",
+      "price": 6000
     }
   ],
-  "total": 2518
+  "total": 2526
 }
