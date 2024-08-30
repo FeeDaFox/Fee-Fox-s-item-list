@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "wandererjoins",
-		"price": 50,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -196,6 +196,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -252,7 +257,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 3000,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -416,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 83
+	"total": 84
 }
